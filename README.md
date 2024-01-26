@@ -7,9 +7,9 @@ This repository contains a TensorFlow implementation for generating face images 
 With the ability to handle input descriptions in over 100 languages, this implementation is highly versatile and adaptable. This means you can generate face images based on textual descriptions in various languages.
 
 To train and evaluate the model, we utilize the large-scale CelebFaces Attributes (CelebA) dataset, which provides a diverse set of realistic human faces.
-
-<img src="./images/Picture1.jpg" width="100" height="100">
-
+<p align="center">
+<img src="./images/Picture1.jpg" width="500" height="200">
+</p>
 Image Source : [https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/celeba.zip]
 
 Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/master/data/caps.txt]
@@ -18,17 +18,30 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 
 -This Face is from the caption ”The woman has oval face and high cheekbones. She has wavy hair which is brown in colour.She has arched eyebrows.The smiling, young attractive woman has heavy makeup. She’s wearing earrings, necklace and lipstick.”Is produced.
 
-![one test](./images/Picture3.jpg)
+<p align="center">
+<img src="./images/Picture3.jpg" width="100" height="100">
+</p>
 
 -This Face is from the caption ”The man sports a 5 o’clock shadow.He has big nose.The young attractive man is smiling.”Is manufactured.
 
-![two test](./images/Picture4.jpg)
+<p align="center">
+<img src="./images/Picture4.jpg" width="100" height="100">
+</p>
 
+##text-to-face evaluation (human evaluation) : 
 
-In text-to-face evaluation, human evaluation is much more convincing. In this evaluation, we presented the human group with face images produced by the Cycle Text2Face model and another model [3](https://ieeexplore.ieee.org/abstract/document/8919389).
+[Text2FaceGAN][3](https://ieeexplore.ieee.org/abstract/document/8919389).
 
-![Human evaluation results](./images/Picture2.jpg)
+<p align="center">
+<img src="./images/Picture2.jpg" width="600" height="500">
+</p>
 
+## text-to-face evaluation (Frechet Inception Distance (FID)) :
+
+|      Model     |      FID   |
+| -------------- | ---------- |
+| Cycle Text2Face| 1.20±0.081 |
+| Text2FaceGan   | 1.4±0.7    |
 # References
 
 [1]	Pennington, J., Socher, R., Manning, C.D.: Glove: Global Vectors for Word Representation. Stanford University, Stanford (2014)
