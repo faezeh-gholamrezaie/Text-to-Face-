@@ -30,12 +30,20 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 
 ##text-to-face evaluation (human evaluation) : 
 
-Text2FaceGAN [3](https://ieeexplore.ieee.org/abstract/document/8919389).
+[Text2FaceGAN][3](https://ieeexplore.ieee.org/abstract/document/8919389).
 
 <p align="center">
 <img src="./images/Picture2.jpg" width="600" height="500">
 </p>
 
+## text-to-face evaluation (Frechet Inception Distance (FID)) :
+
+FID(x,g)= |(|μ_x-μ_g |)|_2^2  +Tr 〖(Σ〗_x+Σ_g 〖-2(Σ_x Σ_g )〗^(1/2))   
+
+|      Model     |      FID   |
+| -------------- | ---------- |
+| Cycle Text2Face| 1.20±0.081 |
+| Text2FaceGan   | 1.4±0.7    |
 # References
 
 [1]	Pennington, J., Socher, R., Manning, C.D.: Glove: Global Vectors for Word Representation. Stanford University, Stanford (2014)
