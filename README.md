@@ -8,7 +8,7 @@ With the ability to handle input descriptions in over 100 languages, this implem
 
 To train and evaluate the model, we utilize the large-scale CelebFaces Attributes (CelebA) dataset, which provides a diverse set of realistic human faces.
 <p align="center">
-<img src="./images/Picture1.jpg" width="600" height="200">
+<img src="./images/Picture1.jpg" width="500" height="200">
 </p>
 Image Source : [https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/celeba.zip]
 
@@ -18,8 +18,9 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 
 -This Face is from the caption ”The woman has oval face and high cheekbones. She has wavy hair which is brown in colour.She has arched eyebrows.The smiling, young attractive woman has heavy makeup. She’s wearing earrings, necklace and lipstick.”Is produced.
 
-![one test](./images/Picture3.jpg)
-
+<p align="center">
+<img src="./images/Picture3.jpg" width="500" height="200">
+</p>
 -This Face is from the caption ”The man sports a 5 o’clock shadow.He has big nose.The young attractive man is smiling.”Is manufactured.
 
 ![two test](./images/Picture4.jpg)
