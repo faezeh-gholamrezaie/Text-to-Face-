@@ -16,13 +16,7 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 
 ## Results
 
--This Face is from the caption ”The woman has oval face and high cheekbones. She has wavy hair which is brown in colour.She has arched eyebrows.The smiling, young attractive woman has heavy makeup. She’s wearing earrings, necklace and lipstick.”Is produced.
-
-<p align="center">
-<img src="./images/Picture3.jpg" width="100" height="100">
-</p>
-
--This Face is from the caption ”The man sports a 5 o’clock shadow.He has big nose.The young attractive man is smiling.”Is manufactured.
+-The man sports a 5 o’clock shadow.He has big nose.The young attractive man is smiling.
 
 <p align="center">
 <img src="./images/Picture4.jpg" width="100" height="100">

@@ -1,0 +1,5 @@
+transformers
+sentence-transformers
+pytorch_pretrained_bert
+pytorch-fid-wrapper
+Pillow
