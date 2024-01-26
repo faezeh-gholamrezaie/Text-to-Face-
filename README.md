@@ -8,7 +8,7 @@ With the ability to handle input descriptions in over 100 languages, this implem
 
 To train and evaluate the model, we utilize the large-scale CelebFaces Attributes (CelebA) dataset, which provides a diverse set of realistic human faces.
 <p align="center">
-<img src="./images/Picture1.jpg" width="1000" height="100">
+<img src="./images/Picture1.jpg" width="1000" height="200">
 </p>
 Image Source : [https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/celeba.zip]
 
