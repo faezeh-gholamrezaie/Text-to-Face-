@@ -7,9 +7,9 @@ This repository contains a TensorFlow implementation for generating face images 
 With the ability to handle input descriptions in over 100 languages, this implementation is highly versatile and adaptable. This means you can generate face images based on textual descriptions in various languages.
 
 To train and evaluate the model, we utilize the large-scale CelebFaces Attributes (CelebA) dataset, which provides a diverse set of realistic human faces.
-
-<img src="./images/Picture1.jpg" width="100" height="100">
-
+<p align="center">
+<img src="./images/Picture1.jpg" width="600" height="600">
+</p>
 Image Source : [https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/celeba.zip]
 
 Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/master/data/caps.txt]
