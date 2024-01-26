@@ -24,12 +24,15 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 
 -This Face is from the caption ”The man sports a 5 o’clock shadow.He has big nose.The young attractive man is smiling.”Is manufactured.
 
-![two test](./images/Picture4.jpg)
-
+<p align="center">
+<img src="./images/Picture4.jpg" width="100" height="100">
+</p>
 
 In text-to-face evaluation, human evaluation is much more convincing. In this evaluation, we presented the human group with face images produced by the Cycle Text2Face model and another model [3](https://ieeexplore.ieee.org/abstract/document/8919389).
 
-![Human evaluation results](./images/Picture2.jpg)
+<p align="center">
+<img src="./images/Picture2.jpg" width="100" height="100">
+</p>
 
 # References
 
