@@ -31,7 +31,7 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 In text-to-face evaluation, human evaluation is much more convincing. In this evaluation, we presented the human group with face images produced by the Cycle Text2Face model and another model [3](https://ieeexplore.ieee.org/abstract/document/8919389).
 
 <p align="center">
-<img src="./images/Picture2.jpg" width="600" height="600">
+<img src="./images/Picture2.jpg" width="600" height="500">
 </p>
 
 # References
