@@ -38,8 +38,6 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 
 ## text-to-face evaluation (Frechet Inception Distance (FID)) :
 
-FID(x,g)= |(|μ_x-μ_g |)|_2^2  +Tr 〖(Σ〗_x+Σ_g 〖-2(Σ_x Σ_g )〗^(1/2))   
-
 |      Model     |      FID   |
 | -------------- | ---------- |
 | Cycle Text2Face| 1.20±0.081 |
