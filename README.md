@@ -8,7 +8,7 @@ With the ability to handle input descriptions in over 100 languages, this implem
 
 To train and evaluate the model, we utilize the large-scale CelebFaces Attributes (CelebA) dataset, which provides a diverse set of realistic human faces.
 
-![Model architecture](./images/Picture1.jpg)
+<img src="./images/Picture1.jpg" width="100" height="100">
 
 Image Source : [https://s3-us-west-1.amazonaws.com/udacity-dlnfd/datasets/celeba.zip]
 
@@ -21,6 +21,7 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 ![one test](./images/Picture3.jpg)
 
 -This Face is from the caption ”The man sports a 5 o’clock shadow.He has big nose.The young attractive man is smiling.”Is manufactured.
+
 ![two test](./images/Picture4.jpg)
 
 
