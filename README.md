@@ -19,7 +19,7 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 -This Face is from the caption ”The woman has oval face and high cheekbones. She has wavy hair which is brown in colour.She has arched eyebrows.The smiling, young attractive woman has heavy makeup. She’s wearing earrings, necklace and lipstick.”Is produced.
 
 <p align="center">
-<img src="./images/Picture3.jpg" width="600" height="600">
+<img src="./images/Picture3.jpg" width="100" height="100">
 </p>
 
 -This Face is from the caption ”The man sports a 5 o’clock shadow.He has big nose.The young attractive man is smiling.”Is manufactured.
@@ -31,7 +31,7 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 In text-to-face evaluation, human evaluation is much more convincing. In this evaluation, we presented the human group with face images produced by the Cycle Text2Face model and another model [3](https://ieeexplore.ieee.org/abstract/document/8919389).
 
 <p align="center">
-<img src="./images/Picture2.jpg" width="100" height="100">
+<img src="./images/Picture2.jpg" width="600" height="600">
 </p>
 
 # References
