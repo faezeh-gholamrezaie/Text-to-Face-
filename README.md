@@ -33,7 +33,7 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 [Text2FaceGAN][3](https://ieeexplore.ieee.org/abstract/document/8919389).
 
 <p align="center">
-<img src="./images/Picture2.jpg" width="600" height="500">
+<img src="./images/Picture2.jpg" width="400" height="200">
 </p>
 
 ## text-to-face evaluation (Frechet Inception Distance (FID)) :
