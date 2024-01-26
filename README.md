@@ -19,7 +19,7 @@ Caption source : [https://raw.githubusercontent.com/midas-research/text2facegan/
 -The man sports a 5 o’clock shadow.He has big nose.The young attractive man is smiling.
 
 <p align="center">
-<img src="./images/Picture4.jpg" width="100" height="100">
+<img src="./images/Picture4.png" width="100" height="100">
 </p>
 
 ##text-to-face evaluation (human evaluation) : 
